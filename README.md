@@ -1,9 +1,9 @@
 # Lazenca A (Andoird ver.)
 Android Memory Cheat Tool(Engine)
 
-## Manual
-### 1.Commands List
-### 1.1. Basic Commands
+## 1.Manual
+### 1.1.Commands List
+### 1.1.1. Basic Commands
 * Attach : ex) attach <pid>
 * Search : ex) search <number>
 * Fuzzing : ex) fuzzing <option>
@@ -17,11 +17,17 @@ Android Memory Cheat Tool(Engine)
 * Clear : data clear(search data)
 * Exit 
 
-### 1.2.Output Function Commands
+### 1.1.2.Output Function Commands
 * Processlist : Output Process List
 * Threadlist :  Output Thread List
 * Datalist : Output Searched Value List
 * Locklist : Output Lock Data List
 
-## Security Guide
+## 2.Security Guide
 Site : [Lazenca D](http://greycheatinglab.com/)
+
+## 3.Lazenca A (iOS ver.)
+Site : [Lazenca A (iOS ver.)](http://greycheatinglab.com/)
+
+## 3.Lazenca S (Anti Cheat Code)
+Site : [Lazenca S (Anti Cheat Code)](http://greycheatinglab.com/)
