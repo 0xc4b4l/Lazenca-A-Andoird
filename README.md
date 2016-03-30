@@ -4,16 +4,16 @@ Android Memory Cheat Tool(Engine)
 ## 1.Manual
 ### 1.1.Commands List
 ### 1.1.1. Basic Commands
-* Attach : ex) attach <pid>
-* Search : ex) search <number>
-* Fuzzing : ex) fuzzing <option>
+* Attach : ex) attach < pid >
+* Search : ex) search < number >
+* Fuzzing : ex) fuzzing < option >
 * Option : Smaller, Lager, Equal, Notequal
-* Write : ex) write <number>
-* Datalock : ex) datalock <address>
+* Write : ex) write < number >
+* Datalock : ex) datalock < address >
 * CONTROL : All Thread Stop, Start
 * Select : Control Individual Thread, Option : Enable, Disable
-* ex) control <option>
-* ex) control select <thread pid>
+* ex) control < option >
+* ex) control select < thread pid >
 * Clear : data clear(search data)
 * Exit 
 
