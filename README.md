@@ -1,9 +1,13 @@
 # Lazenca A (Andoird ver.)
 Android Memory Cheat Tool(Engine)
 
-## 1.Manual
-### 1.1.Commands List
-### 1.1.1. Basic Commands
+## 1.Set
+* chmod 6755 "Memorycheat File name"
+* chown root:root "Memorycheat File name"
+
+## 2.Manual
+### 2.1.Commands List
+### 2.1.1. Basic Commands
 * Attach : ex) attach < pid >
 * Search : ex) search < number >
 * Fuzzing : ex) fuzzing < option >
@@ -17,17 +21,17 @@ Android Memory Cheat Tool(Engine)
 * Clear : data clear(search data)
 * Exit 
 
-### 1.1.2.Output Function Commands
+### 2.1.2.Output Function Commands
 * Processlist : Output Process List
 * Threadlist :  Output Thread List
 * Datalist : Output Searched Value List
 * Locklist : Output Lock Data List
 
-## 2.Game Security Guide
+## 3.Game Security Guide
 Site : Secret
 
-## 3.Lazenca A (iOS ver.)
+## 4.Lazenca A (iOS ver.)
 Site : Secret
 
-## 4.Lazenca S (Anti Cheat Code)
+## 5.Lazenca S (Anti Cheat Code)
 Site : Secret
