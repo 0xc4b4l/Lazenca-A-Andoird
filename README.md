@@ -29,5 +29,5 @@ Site : [Lazenca D](http://greycheatinglab.com/)
 ## 3.Lazenca A (iOS ver.)
 Site : [Lazenca A (iOS ver.)](http://greycheatinglab.com/)
 
-## 3.Lazenca S (Anti Cheat Code)
+## 4.Lazenca S (Anti Cheat Code)
 Site : [Lazenca S (Anti Cheat Code)](http://greycheatinglab.com/)
