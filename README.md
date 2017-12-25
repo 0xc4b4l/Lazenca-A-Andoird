@@ -27,11 +27,8 @@ Android Memory Cheat Tool(Engine)
 * Datalist : Output Searched Value List
 * Locklist : Output Lock Data List
 
-## 3.Game Security Guide
-Site : [Lazenca D](http://greycheatinglab.com/)
-
-## 4.Lazenca A (iOS ver.)
+## 3.Lazenca A (iOS ver.)
 Site : [Lazenca A(ios ver.)](https://github.com/Lazenca/Lazenca-A-iOS)
 
-## 5.Lazenca S (Anti Cheat Code)
+## 4.Lazenca S (Anti Cheat Code)
 Site : [Lazenca S(aos ver.)](https://github.com/Lazenca/Lazenca-S)
